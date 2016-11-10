@@ -74,6 +74,13 @@ config = {
         // Specify where your content directory lives
         paths: {
             contentPath: path.join(__dirname, '/content/')
+        },
+	privacy: {
+           useUpdateCheck: false,
+           useGoogleFonts: false,
+           useGravatar: false,
+           useRpcPing: false,
+           useStructuredData: false
         }
     },
 
