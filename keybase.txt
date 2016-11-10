@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/davidllewellyn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://davidllewellyn.github.io
+  * I am davidllewellyn (https://keybase.io/davidllewellyn) on keybase.
+  * I have a public key with fingerprint 2658 729E 618E F469 5106  7503 AA98 303C 9B9C 640D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010166939ea3cdc6c755e75dbb03d2226b4516d9549f992b20eb35fdbd1a023859b70a",
+            "fingerprint": "2658729e618ef46951067503aa98303c9b9c640d",
+            "host": "keybase.io",
+            "key_id": "aa98303c9b9c640d",
+            "kid": "010166939ea3cdc6c755e75dbb03d2226b4516d9549f992b20eb35fdbd1a023859b70a",
+            "uid": "1af7c6a967b4231f4514b1d3cbf21b19",
+            "username": "davidllewellyn"
+        },
+        "revoke": {
+            "sig_ids": [
+                "fc5936e25e74023fef4e0e8e7998ef4fe736fa324d7ef0084304da98a952e7020f"
+            ]
+        },
+        "service": {
+            "hostname": "davidllewellyn.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478762743,
+    "expire_in": 157680000,
+    "prev": "d78910343f4940283e9874de745f8ed67576bf678f44e37df185db5762e945b1",
+    "seqno": 52,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMOJAnicrVJtUFRVGN4lvgdhxTQ1bfDKxwgM3O+PTSWEgcLcEBaG+Nq5d++5y23X
+3XX3AiFDCbLRUEHYkDaAMY0ImC1iRIxoJbATYZYVgxvZh5Ylw0TWmJYT0rlU//zZ
++XPmvPM8z/u8z3smVtynCdceP4xu7egUV2jPjwVXaopiY27XIoJDrEH0tYgVLF/A
+JgK3YrLKIqJHUAzFaJojOMATZtFMmxmKAgwlCgJKiDiO0wJJYbTIUSQncRwu4CgQ
+CEoSBRHjUZxgKU5gUB5JRiTZbgEup0u2K1AWpymWwTlAYyyQSJqjMJRmKJTgeY4l
+UMLMCZyZJlEREiscbpUBzQm8G6TIDliDD9OyvXvg/2fflctyGC8xZprnaEYgcQKT
+IJkUMJEwCxKOCRinAt3AZef3AIgW+SpZtNlANbDZauxIXTLiAlUOK1DTdcsWaN2N
+6EsQyUxxBA1waIyEPSWYBEABCxiOU1ORAEPQEk/gpMgACUVZkkBJEQ7McxQOGBRH
+JaQMasO+VbJ5WVzN6p4eUiyyUlEp/JOe0+VQHGaHDaIqFMXp1qsOlRqnSqsGgulf
+QZMg20W4NcioAi637LAjegwizYqsdsBIhmVonCGJZAQ87ZRdwCSrCIqhWRQetQ+o
+Up0wLIehBElIJAfnZAnAsQwpwqEpiQUi3DtDCxLNsBJJAoIRJYyFe4JFHHAkJWCI
+OuJeuwPRUzj0yVugJkzRziuVLoDUjZ0rDdRowzXBQQHqd9aEh+n+++RrKZ1mvsgY
+2Fy8sqVhX+L41YVsLOYv8PrZ6i7H4FdlPmPeSOpuKqpj1ztBp8rjNMdX5zw7Jl77
+BbX0CMWbOOuRSpMrrbexPfaYtCnwTR/z/GjvNl/f16UTZ7yeoLm3dN+cVEL7oiLr
+QeRLQzOv7EoaCLl+8WbT1LWU9CuGkK7e+PPXtyfdedJ7OqvYAD5LtQ/tSN9d0r2w
+lNeQ93ZHwQPRLzb9uG/N9MtLR5PjpucLXc2lw84Ikg0zCLrZLk7xFyTMrLnUakiN
+XqnVhvQf9Fe/sSp77U9xhU3jH3m8/bpHQntbNkwdKlkcmjsV39Lo/fCIdbB9Kn2/
+z/+lScl/KP1wwORw7nDCxqbLttzFzB/kyKO3fffHZxZRV3oaWwyf/6EY6IO/BQ14
+jZN4c5Lr2623LNv9gd/LtSn+trDspwrW54eNlC0mVjw48GhqVmzIlguF77Ufa22L
+6CJaf56+9Kel0DMd78wcKQ/OTz79Rdu7bvQx8WSCYelEVv/gaPS5J0ryDnxy4Yz5
+94WcjM2dnhsPL3rm19V9pzV2T4qhN2derd7RsJruy4/wMVO610o3tpfffebi4mxi
+p8b/62Vjz7pZ69zdG/XeHNG4t7Y0JdXzwZb6gE8zyrZteG5nzft7YkL2H/q4LLY7
+Ji19cgB7/ERa19lbnTsn7nS6uq+uys3w8NHjfGbcC+ujDgRudoz+DVnb0lY=
+=U00C
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davidllewellyn
+
+==================================================================
+
